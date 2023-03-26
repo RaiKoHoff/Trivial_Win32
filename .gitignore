@@ -28,8 +28,3 @@ Thumbs.db
 /.vs
 /Bin
 /Build/Packages
-/Build/make_portable_*
-/Build/notepad3*setup_*
-
-**/x64/
-**/trivial/x64/
